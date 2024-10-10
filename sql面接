@@ -17,11 +17,6 @@ SQLでは主に四つの命令がよく使われます。検索のための「SE
 WHERE句の後ろに条件を付けて、需要に応じたテーブルの絞り込みを行います。
 
 4.演算子の分類
-if elsif else 
-case
-loop
-for loop
-while loop
 
 5.group by,havingの使い方
 
@@ -41,6 +36,11 @@ SQLと比較して、PL/SQLはOracleデータベースを基にしたより高�
 PL/SQLの関数とストアドプロシージャは、作成のコードはほとんど同じです。ただし、関数はSQL文の中でしか使用できませんが、ストアドプロシージャは単独で使用することができます。また、関数は入力データが必要で、必ず値を返す必要があります。一方、ストアドプロシージャはデータを入力することもできるし、データを返すこともできるため、要求に応じてINやOUTを使って実行されます。
 
 10.循环结构 
+if elsif else end if
+case when then
+loop end loop
+for in loop
+while loop
 
 11.テーブルの作成
 
