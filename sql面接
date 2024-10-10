@@ -17,6 +17,11 @@ SQLでは主に四つの命令がよく使われます。検索のための「SE
 WHERE句の後ろに条件を付けて、需要に応じたテーブルの絞り込みを行います。
 
 4.演算子の分類
+if elsif else 
+case
+loop
+for loop
+while loop
 
 5.group by,havingの使い方
 
