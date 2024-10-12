@@ -73,3 +73,17 @@ dml、ddl数据定义语言
 plsql
 函数怎么做；
 存储过程
+
+bulk：
+transaction：
+commit
+rollback
+savepoint
+
+arrays
+table
+
+cursor
+
+exception
+
